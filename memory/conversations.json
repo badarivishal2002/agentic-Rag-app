@@ -1,0 +1,27 @@
+{
+  "sessions": {
+    "default_20250725": {
+      "created_at": "2025-07-25T00:47:22.130464",
+      "conversations": [
+        {
+          "timestamp": "2025-07-25T00:47:22.130482",
+          "question": "Cloud & Infrastructure",
+          "answer": "Based on the provided text, Cloud & Infrastructure is a category under Technology Services.  Specific examples include: Cloud Migration (AWS, Azure, Google Cloud), Infrastructure Management Services, DevOps and CI/CD Implementation, and Serverless Architecture Design.",
+          "document": "HMC website .pdf",
+          "metadata": {
+            "file_hash": "5661212f"
+          }
+        },
+        {
+          "timestamp": "2025-07-25T00:47:42.934785",
+          "question": "Data & Analytics",
+          "answer": "Based on the provided text, Data & Analytics is a category under Technology Services.  Specific examples include: Data Engineering & Warehousing, Business Intelligence Dashboards, Predictive & Prescriptive Analytics, and Data Visualization Tools.",
+          "document": "HMC website .pdf",
+          "metadata": {
+            "file_hash": "5661212f"
+          }
+        }
+      ]
+    }
+  }
+}

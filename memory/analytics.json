@@ -1,0 +1,23 @@
+{
+  "total_queries": 2,
+  "total_documents": 0,
+  "query_history": [
+    {
+      "timestamp": "2025-07-25T00:47:22.149599",
+      "question": "Cloud & Infrastructure",
+      "document": "HMC website .pdf"
+    },
+    {
+      "timestamp": "2025-07-25T00:47:42.959575",
+      "question": "Data & Analytics",
+      "document": "HMC website .pdf"
+    }
+  ],
+  "popular_queries": {
+    "cloud & infrastructure": 1,
+    "data & analytics": 1
+  },
+  "document_usage": {
+    "HMC website .pdf": 2
+  }
+}
